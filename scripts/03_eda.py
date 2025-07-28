@@ -62,7 +62,7 @@ print(f" EDA plots saved in {eda_dir}")
 print(f" Correlation summary saved to {corr_txt_path}")
 
 # Git commit and push
-commit_msg = f"📊 Step 4: EDA complete for {folders[0]}"
+commit_msg = f"EDA complete for {folders[0]}"
 subprocess.run(["git", "add", "."])
 subprocess.run(["git", "commit", "-m", commit_msg])
 subprocess.run(["git", "push"])
