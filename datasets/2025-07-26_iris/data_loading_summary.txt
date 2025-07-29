@@ -1,9 +1,9 @@
 Dataset shape: (150, 6)
 
 First 5 rows:
-   Id  SepalLengthCm  SepalWidthCm  PetalLengthCm  PetalWidthCm      Species
-0   1            5.1           3.5            1.4           0.2  Iris-setosa
-1   2            4.9           3.0            1.4           0.2  Iris-setosa
-2   3            4.7           3.2            1.3           0.2  Iris-setosa
-3   4            4.6           3.1            1.5           0.2  Iris-setosa
-4   5            5.0           3.6            1.4           0.2  Iris-setosa
+         Id  SepalLengthCm  SepalWidthCm  PetalLengthCm  PetalWidthCm   Species
+0 -1.720542      -0.900681      1.032057      -1.341272     -1.312977 -1.224745
+1 -1.697448      -1.143017     -0.124958      -1.341272     -1.312977 -1.224745
+2 -1.674353      -1.385353      0.337848      -1.398138     -1.312977 -1.224745
+3 -1.651258      -1.506521      0.106445      -1.284407     -1.312977 -1.224745
+4 -1.628164      -1.021849      1.263460      -1.341272     -1.312977 -1.224745
