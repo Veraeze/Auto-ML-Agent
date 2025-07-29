@@ -1,0 +1,3 @@
+Target column: Species
+Unique values: 3
+Problem type: classification
