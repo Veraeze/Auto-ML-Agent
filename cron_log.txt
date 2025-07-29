@@ -1,0 +1,559 @@
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/01_data_loading.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/02_data_cleaning.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/03_eda.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/04_feature_engineering.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/05_model_selection.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/06_model_training.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/07_model_evaluation.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/08_generate_readme.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/veraezeagu/scripts/09_publish_to_repo.py': [Errno 2] No such file or directory
+
+ Running 01_data_loading.py ...
+
+
+ Running 02_data_cleaning.py ...
+
+
+ Running 03_eda.py ...
+
+
+ Running 04_feature_engineering.py ...
+
+
+ Running 05_model_selection.py ...
+
+
+ Running 06_model_training.py ...
+
+
+ Running 07_model_evaluation.py ...
+
+
+ Running 08_generate_readme.py ...
+
+
+ Running 09_publish_to_repo.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/02_data_cleaning.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/03_eda.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/04_feature_engineering.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/05_model_selection.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/06_model_training.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/07_model_evaluation.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/08_generate_readme.py", line 6, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/09_publish_to_repo.py", line 10, in <module>
+    folders = sorted(os.listdir(SOURCE_DATASETS_DIR), reverse=True)
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-29 20:58:00.578697 - Running 01_data_loading.py ...
+
+
+2025-07-29 20:58:00.619623 - Running 02_data_cleaning.py ...
+
+
+2025-07-29 20:58:00.660569 - Running 03_eda.py ...
+
+
+2025-07-29 20:58:00.708429 - Running 04_feature_engineering.py ...
+
+
+2025-07-29 20:58:00.742792 - Running 05_model_selection.py ...
+
+
+2025-07-29 20:58:00.780848 - Running 06_model_training.py ...
+
+
+2025-07-29 20:58:00.818021 - Running 07_model_evaluation.py ...
+
+
+2025-07-29 20:58:00.856193 - Running 08_generate_readme.py ...
+
+
+2025-07-29 20:58:00.902845 - Running 09_publish_to_repo.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/02_data_cleaning.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/03_eda.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/04_feature_engineering.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/05_model_selection.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/06_model_training.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/07_model_evaluation.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
