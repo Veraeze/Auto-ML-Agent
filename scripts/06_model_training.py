@@ -42,6 +42,9 @@ model_path = os.path.join(latest_folder, "trained_model.pkl")
 joblib.dump(model, model_path)
 
 print(f" Trained model saved to {model_path}")
+print("Target preview:", y.unique()[:5])
+print("Target dtype:", y.dtype)
+print("Problem type (from summary):", problem_type)
 
 # Git add, commit, push
 commit_msg = f" Trained {problem_type} model for {folders[0]}"
