@@ -23,7 +23,7 @@ unique_values = df[target_col].nunique()
 
 if df[target_col].dtype == 'object':
     problem_type = "classification"
-elif unique_values <= 10:
+elif df[target_col].dtype in ['int', 'int64'] and unique_values <= 10:
     problem_type = "classification"
 else:
     problem_type = "regression"
