@@ -19,7 +19,6 @@ Missing values handled and duplicates removed.
 ---
 
 ## Feature Engineering
-Label encoded: Species
 Standardized numeric columns: ['Id', 'SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm', 'Species']
 
 ---
