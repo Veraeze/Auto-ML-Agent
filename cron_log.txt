@@ -37089,3 +37089,11 @@ To https://github.com/Veraeze/Auto-ML-Agent.git
    ce4a810..d8c8b50  main -> main
 Detected problem type: regression
 Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+[main 559f72f]  Trained regression model for 2025-07-26_iris
+ 2 files changed, 6 insertions(+)
+To https://github.com/Veraeze/Auto-ML-Agent.git
+   d8c8b50..559f72f  main -> main
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -3.31586610e-16  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
