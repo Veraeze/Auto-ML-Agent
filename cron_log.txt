@@ -37241,3 +37241,9 @@ To https://github.com/Veraeze/Auto-ML-Agent.git
    826a148..e23a08d  main -> main
  Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
  Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+[main f70f135] Model type selected for 2025-07-26_iris (regression)
+ 1 file changed, 6 insertions(+)
+To https://github.com/Veraeze/Auto-ML-Agent.git
+   e23a08d..f70f135  main -> main
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
