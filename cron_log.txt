@@ -37150,3 +37150,9 @@ To https://github.com/Veraeze/Auto-ML-Agent.git
    98e06f2..c6b40af  main -> main
 Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
 Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+[main 98c4fe9] EDA complete for 2025-07-26_iris
+ 1 file changed, 6 insertions(+)
+To https://github.com/Veraeze/Auto-ML-Agent.git
+   c6b40af..98c4fe9  main -> main
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
