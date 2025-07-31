@@ -30569,3 +30569,1821 @@ hint:
 hint: 	git rm --cached .nvm
 hint: 
 hint: See "git help submodule" for more information.
+
+2025-07-31 16:33:27.155489 - Running 01_data_loading.py ...
+
+
+2025-07-31 16:33:30.015806 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 16:33:32.189245 - Running 03_eda.py ...
+
+
+2025-07-31 16:33:36.437404 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 16:33:39.232124 - Running 05_model_selection.py ...
+
+
+2025-07-31 16:33:40.646012 - Running 06_model_training.py ...
+
+
+2025-07-31 16:33:44.052268 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 16:33:46.778675 - Running 08_generate_readme.py ...
+
+
+2025-07-31 16:33:48.816506 - Running 09_publish_to_repo.py ...
+
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
+Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -9.47390314e-17  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+Model evaluation complete and saved.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 16:35:00.120283 - Running 01_data_loading.py ...
+
+
+2025-07-31 16:35:01.356968 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 16:35:02.602700 - Running 03_eda.py ...
+
+
+2025-07-31 16:35:06.758299 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 16:35:09.270540 - Running 05_model_selection.py ...
+
+
+2025-07-31 16:35:11.190169 - Running 06_model_training.py ...
+
+
+2025-07-31 16:35:14.593999 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 16:35:18.627399 - Running 08_generate_readme.py ...
+
+
+2025-07-31 16:35:19.924802 - Running 09_publish_to_repo.py ...
+
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
+Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+fatal: could not read Username for 'https://github.com': Device not configured
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+fatal: could not read Username for 'https://github.com': Device not configured
+Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
+Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -3.31586610e-16  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+Model evaluation complete and saved.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: could not open directory '.Trash/': Operation not permitted
+fatal: could not read Username for 'https://github.com': Device not configured
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/veraezeagu/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: could not read Username for 'https://github.com': Device not configured
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 16:40:00.732268 - Running 01_data_loading.py ...
+
+
+2025-07-31 16:40:03.110397 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 16:40:04.937630 - Running 03_eda.py ...
+
+
+2025-07-31 16:40:11.166099 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 16:40:13.296535 - Running 05_model_selection.py ...
+
+
+2025-07-31 16:40:14.411657 - Running 06_model_training.py ...
+
+
+2025-07-31 16:40:16.675446 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 16:40:19.825312 - Running 08_generate_readme.py ...
+
+
+2025-07-31 16:40:20.595230 - Running 09_publish_to_repo.py ...
+
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -9.47390314e-17  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Username for 'https://github.com': Device not configured
+Model evaluation complete and saved.
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Documents/apps/E-commerce app/frontendEcommerce
+warning: adding embedded git repository: Documents/apps/TaskManager
+warning: adding embedded git repository: Documents/apps/ecommerce/admin
+warning: adding embedded git repository: Documents/apps/ecommerce/backend
+warning: adding embedded git repository: Documents/apps/ecommerce/frontend
+warning: adding embedded git repository: Documents/apps/weather app
+warning: adding embedded git repository: Documents/mini apps/bug-fixer
+warning: adding embedded git repository: Documents/mini apps/pic-post
+warning: adding embedded git repository: Documents/mini apps/quote-generator
+warning: adding embedded git repository: Documents/mini apps/smart-recipe-generator/frontend
+error: 'Documents/ml_daily_models/ML-daily-models/' does not have a commit checked out
+fatal: adding files failed
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/README.md
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/cleaned_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/model_evaluation_summary.txt
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/processed_data.csv
+	modified:   ml_daily_models/ml_daily_models/2025-07-26_iris/trained_model.pkl
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.bash_history
+	.bash_profile
+	.bash_profile.save
+	.bash_profile.swp
+	.bash_sessions/
+	.git-credentials
+	.gitconfig
+	.idlerc/
+	.ipython/
+	.jupyter/
+	.kaggle/
+	.m2/
+	.matplotlib/
+	.mongodb/
+	.npm/
+	.nvm/
+	.streamlit/
+	.th-client/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc 
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	IdeaProjects/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Postman/
+	Public/
+	PycharmProjects/
+	WebstormProjects/
+	auto_ml_agent/
+	cd
+	eventBookingApp/
+	javaProjectT/
+	jcef_1082.log
+	jcef_1251.log
+	jcef_19425.log
+	jcef_19837.log
+	jcef_31629.log
+	jcef_35885.log
+	jcef_4972.log
+	jcef_66381.log
+	jcef_79915.log
+	jcef_80301.log
+	practice/
+	setup_project.py
+	sudo
+	terminalProject/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main f2c7ff0]  Daily model update: 2025-07-26_iris
+ 5 files changed, 304 insertions(+), 304 deletions(-)
+To https://github.com/Veraeze/ML-daily-models.git
+   7b300d0..f2c7ff0  main -> main
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 16:30:00.867989 - Running 01_data_loading.py ...
+
+
+2025-07-31 16:34:56.061258 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 16:36:12.192235 - Running 03_eda.py ...
+
+
+2025-07-31 16:37:34.026019 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 16:38:46.927733 - Running 05_model_selection.py ...
+
+
+2025-07-31 16:40:06.649447 - Running 06_model_training.py ...
+
+
+2025-07-31 16:41:35.471703 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 16:43:01.834754 - Running 08_generate_readme.py ...
+
+
+2025-07-31 16:44:23.741692 - Running 09_publish_to_repo.py ...
+
