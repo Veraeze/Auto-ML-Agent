@@ -14,8 +14,7 @@ if not os.path.exists(processed_file):
 
 df = pd.read_csv(processed_file)
 
-# Guess target column
-# For now, we'll assume it's the last column
+# Assume the target column is the last column
 target_col = df.columns[-1]
 
 # Determine problem type

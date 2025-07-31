@@ -29,7 +29,7 @@ for col in df.select_dtypes(include='number').columns:
     plt.savefig(os.path.join(eda_dir, f"{col}_histogram.png"))
     plt.close()
 
-# Correlation heatmap (if enough numeric cols)
+# Correlation heatmap 
 corr_txt_path = os.path.join(latest_folder, "correlation_summary.txt")
 numeric_cols = df.select_dtypes(include='number')
 
