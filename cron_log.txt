@@ -29884,3 +29884,688 @@ Traceback (most recent call last):
   File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
     raise CalledProcessError(retcode, process.args,
 subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+
+2025-07-31 15:38:23.535413 - Running 01_data_loading.py ...
+
+
+2025-07-31 15:38:25.901462 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 15:38:27.977664 - Running 03_eda.py ...
+
+
+2025-07-31 15:38:30.533272 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 15:38:32.765479 - Running 05_model_selection.py ...
+
+
+2025-07-31 15:38:34.164613 - Running 06_model_training.py ...
+
+
+2025-07-31 15:38:36.574718 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 15:38:38.559537 - Running 08_generate_readme.py ...
+
+
+2025-07-31 15:38:39.634043 - Running 09_publish_to_repo.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:39:00.407082 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:40:00.753845 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:41:01.105425 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:42:00.425735 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:43:00.734859 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:44:01.016923 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:45:00.256473 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:46:00.332843 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:47:00.640341 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:48:00.840211 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:49:00.976291 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:50:00.412412 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:51:00.756607 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:52:00.345479 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:53:00.737394 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:54:01.024478 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:55:00.315019 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:56:00.654800 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:57:00.943296 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:58:00.159232 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 15:59:00.350414 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:00:00.551984 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:01:00.745765 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:02:00.895871 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:03:01.070011 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:04:00.347186 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:05:00.616035 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:06:01.108166 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:07:00.356957 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:08:00.876206 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:09:00.430589 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:10:00.913615 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:11:01.193073 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:12:00.503647 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:13:00.583453 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:14:00.777692 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:15:00.101053 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:16:00.460440 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:20:00.980944 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py", line 7, in <module>
+    folders = sorted(os.listdir(datasets_dir), reverse=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'datasets'
+
+2025-07-31 16:25:00.397710 - Running 01_data_loading.py ...
+
+Traceback (most recent call last):
+  File "/Users/veraezeagu/auto_ml_agent/run_agent.py", line 23, in <module>
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/session/db/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Safari.SandboxBroker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.Photos.PhotosFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/Libraries/Syndication.photoslibrary/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.imagecache/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: adding embedded git repository: .nvm
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> .nvm
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached .nvm
+hint: 
+hint: See "git help submodule" for more information.
