@@ -6,7 +6,8 @@ import subprocess
 import numpy as np
 
 # Locate latest dataset folder
-datasets_dir = "datasets"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+datasets_dir = os.path.join(BASE_DIR, "..", "datasets")
 folders = sorted(os.listdir(datasets_dir), reverse=True)
 latest_folder = os.path.join(datasets_dir, folders[0])
 
