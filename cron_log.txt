@@ -37218,3 +37218,8 @@ Copied 2025-07-26_iris to ML-daily-models repo.
 
 2025-07-31 18:05:34.587633 - Running 09_publish_to_repo.py ...
 
+[main 2d091a6]  Loaded dataset and saved preview for 2025-07-26_iris
+ 1 file changed, 37 insertions(+)
+To https://github.com/Veraeze/Auto-ML-Agent.git
+   3adc438..2d091a6  main -> main
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
