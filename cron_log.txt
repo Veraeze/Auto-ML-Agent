@@ -29662,3 +29662,30 @@ Traceback (most recent call last):
   File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
     raise CalledProcessError(retcode, process.args,
 subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/01_data_loading.py']' returned non-zero exit status 1.
+
+2025-07-31 15:25:58.814086 - Running 01_data_loading.py ...
+
+
+2025-07-31 15:26:01.381015 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 15:26:03.658636 - Running 03_eda.py ...
+
+
+2025-07-31 15:26:06.156125 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 15:26:08.688843 - Running 05_model_selection.py ...
+
+
+2025-07-31 15:26:10.141808 - Running 06_model_training.py ...
+
+
+2025-07-31 15:26:13.100920 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 15:26:14.928018 - Running 08_generate_readme.py ...
+
+
+2025-07-31 15:26:16.116598 - Running 09_publish_to_repo.py ...
+
