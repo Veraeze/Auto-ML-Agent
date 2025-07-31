@@ -20,4 +20,4 @@ with open(log_path, "a") as log_file:
     for script in scripts:
         script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts", script)
         log_file.write(f"\n{datetime.now()} - Running {script} ...\n\n")
-        subprocess.run(["/usr/bin/python3", script_path], stdout=log_file, stderr=log_file)
+        subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)

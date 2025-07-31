@@ -43,7 +43,7 @@ with open(log_path, "w") as f:
 print(f"Cleaned data saved to {cleaned_path}")
 print(f"Cleaning log saved to {log_path}")
 
-# Step 7: Git add, commit, push
+# Git add, commit, push
 commit_msg = f"Cleaned dataset for {folders[0]}"
 subprocess.run(["git", "add", "."])
 subprocess.run(["git", "commit", "-m", commit_msg])

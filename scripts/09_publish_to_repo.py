@@ -3,8 +3,8 @@ import shutil
 import subprocess
 
 # CONFIG
-SOURCE_DATASETS_DIR = "datasets"
-DEST_REPO_PATH = os.path.expanduser("~/ml_daily_models/ml_daily_models")  
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SOURCE_DATASETS_DIR = os.path.join(BASE_DIR, "..", "datasets")DEST_REPO_PATH = os.path.expanduser("~/ml_daily_models/ml_daily_models")  
 
 # Locate latest folder
 folders = sorted(os.listdir(SOURCE_DATASETS_DIR), reverse=True)

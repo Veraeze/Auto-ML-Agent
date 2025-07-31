@@ -49,7 +49,7 @@ with open(summary_path, "w") as f:
 print(f" Processed data saved to {processed_path}")
 print(f" Feature engineering summary saved to {summary_path}")
 
-# Step 6: Git commit and push
+# Git commit and push
 commit_msg = f" Feature engineering complete for {folders[0]}"
 subprocess.run(["git", "add", "."])
 subprocess.run(["git", "commit", "-m", commit_msg])
