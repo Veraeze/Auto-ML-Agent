@@ -25,8 +25,8 @@ Standardized numeric columns: ['Id', 'SepalLengthCm', 'SepalWidthCm', 'PetalLeng
 
 ## Model Evaluation
 R² Score: 1.0000
-MAE: 0.0000
-RMSE: 0.0000
+MAE: 0.0004
+RMSE: 0.0022
 
 ---
 
