@@ -37102,3 +37102,40 @@ Problem type (from summary): regression
 To https://github.com/Veraeze/Auto-ML-Agent.git
    559f72f..6ae90ea  main -> main
 Model evaluation complete and saved.
+[main ef07231] README generated for 2025-07-26_iris
+ 1 file changed, 5 insertions(+)
+To https://github.com/Veraeze/Auto-ML-Agent.git
+   6ae90ea..ef07231  main -> main
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 18:00:01.051507 - Running 01_data_loading.py ...
+
+
+2025-07-31 18:00:04.598620 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 18:00:08.172283 - Running 03_eda.py ...
+
+
+2025-07-31 18:00:14.058215 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 18:00:17.869331 - Running 05_model_selection.py ...
+
+
+2025-07-31 18:00:20.638315 - Running 06_model_training.py ...
+
+
+2025-07-31 18:00:25.187165 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 18:00:30.702702 - Running 08_generate_readme.py ...
+
+
+2025-07-31 18:00:32.961072 - Running 09_publish_to_repo.py ...
+
