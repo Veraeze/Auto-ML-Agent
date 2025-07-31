@@ -36689,3 +36689,216 @@ Copied 2025-07-26_iris to ML-daily-models repo.
 
 2025-07-31 17:31:54.667902 - Running 09_publish_to_repo.py ...
 
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
+Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -1.89478063e-16  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Model evaluation complete and saved.
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 17:35:00.286877 - Running 01_data_loading.py ...
+
+
+2025-07-31 17:35:01.376594 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 17:35:02.068564 - Running 03_eda.py ...
+
+
+2025-07-31 17:35:05.583394 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 17:35:07.187303 - Running 05_model_selection.py ...
+
+
+2025-07-31 17:35:07.729869 - Running 06_model_training.py ...
+
+
+2025-07-31 17:35:09.370725 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 17:35:11.811567 - Running 08_generate_readme.py ...
+
+
+2025-07-31 17:35:11.914890 - Running 09_publish_to_repo.py ...
+
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
+Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -3.31586610e-16  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Model evaluation complete and saved.
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 17:40:00.445974 - Running 01_data_loading.py ...
+
+
+2025-07-31 17:40:01.706425 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 17:40:02.434448 - Running 03_eda.py ...
+
+
+2025-07-31 17:40:07.069777 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 17:40:09.044687 - Running 05_model_selection.py ...
+
+
+2025-07-31 17:40:09.728678 - Running 06_model_training.py ...
+
+
+2025-07-31 17:40:11.676224 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 17:40:14.117868 - Running 08_generate_readme.py ...
+
+
+2025-07-31 17:40:14.243278 - Running 09_publish_to_repo.py ...
+
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Loaded dataset from /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv and saved summary to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_loading_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Cleaned data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/cleaned_data.csv
+Cleaning log saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/data_cleaning_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
+ Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Detected problem type: regression
+Summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/model_selection_summary.txt
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+ Trained model saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/trained_model.pkl
+Target preview: [-1.22474487e+00 -1.42108547e-16  1.22474487e+00]
+Target dtype: float64
+Problem type (from summary): regression
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Model evaluation complete and saved.
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+README.md generated at /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/README.md
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+📂 Folder 2025-07-26_iris already exists in destination. Overwriting...
+Copied 2025-07-26_iris to ML-daily-models repo.
+
+2025-07-31 17:45:00.824169 - Running 01_data_loading.py ...
+
+
+2025-07-31 17:45:01.911510 - Running 02_data_cleaning.py ...
+
+
+2025-07-31 17:45:02.684630 - Running 03_eda.py ...
+
+
+2025-07-31 17:45:06.235725 - Running 04_feature_engineering.py ...
+
+
+2025-07-31 17:45:08.028576 - Running 05_model_selection.py ...
+
+
+2025-07-31 17:45:08.706580 - Running 06_model_training.py ...
+
+
+2025-07-31 17:45:10.703707 - Running 07_model_evaluation.py ...
+
+
+2025-07-31 17:45:13.227830 - Running 08_generate_readme.py ...
+
+
+2025-07-31 17:45:13.371722 - Running 09_publish_to_repo.py ...
+
