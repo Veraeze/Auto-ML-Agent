@@ -29,7 +29,6 @@ DATASET_CHOICES = [
 def fetch_and_save_dataset():
     # Use today's date as a seed to ensure variation each day
     # random.seed(datetime.date.today().toordinal())
-    # random.seed(datetime.datetime.now().timestamp())
     dataset_name = random.choice(DATASET_CHOICES)
     print(f"Selected dataset: {dataset_name}")
     dataset_id = dataset_name.split("/")[-1]
