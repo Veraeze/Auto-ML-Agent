@@ -37569,3 +37569,33 @@ Traceback (most recent call last):
   File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/subprocess.py", line 571, in run
     raise CalledProcessError(retcode, process.args,
 subprocess.CalledProcessError: Command '['/Library/Frameworks/Python.framework/Versions/3.11/bin/python3', '/Users/veraezeagu/auto_ml_agent/scripts/10_send_slack_notification.py']' returned non-zero exit status 1.
+
+2025-08-01 12:17:22.691622 - Running 01_data_loading.py ...
+
+
+2025-08-01 12:17:30.638565 - Running 02_data_cleaning.py ...
+
+
+2025-08-01 12:17:34.286535 - Running 03_eda.py ...
+
+
+2025-08-01 12:17:37.632310 - Running 04_feature_engineering.py ...
+
+
+2025-08-01 12:17:41.172344 - Running 05_model_selection.py ...
+
+
+2025-08-01 12:17:46.346459 - Running 06_model_training.py ...
+
+
+2025-08-01 12:17:51.251724 - Running 07_model_evaluation.py ...
+
+
+2025-08-01 12:17:54.242089 - Running 08_generate_readme.py ...
+
+
+2025-08-01 12:17:56.318798 - Running 09_publish_to_repo.py ...
+
+
+2025-08-01 12:17:56.387834 - Running 10_send_slack_notification.py ...
+
