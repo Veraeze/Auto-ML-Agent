@@ -12,7 +12,7 @@ dest_path = os.path.join(os.path.expanduser("~/ml_daily_models/ml_daily_models")
 
 # Copy folder 
 if os.path.exists(dest_path):
-    print(f"📂 Folder {latest_folder} already exists in destination. Overwriting...")
+    print(f"Folder {latest_folder} already exists in destination. Overwriting...")
     shutil.rmtree(dest_path)
 
 shutil.copytree(source_path, dest_path)
