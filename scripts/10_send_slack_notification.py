@@ -2,7 +2,7 @@ import requests
 import os
 
 # Load webhook URL
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
 
 # Read latest model folder
 datasets_dir = os.path.join(os.path.dirname(__file__), "..", "datasets")
