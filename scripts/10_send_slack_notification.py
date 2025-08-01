@@ -1,20 +1,27 @@
-import requests
 import os
+import requests
 
-# Load webhook URL
-SLACK_WEBHOOK_URL = ""
+# Get OAuth token and channel ID from environment variables
+slack_token = os.getenv("SLACK_BOT_TOKEN")
+channel_id = os.getenv("SLACK_CHANNEL_ID")
 
-# Read latest model folder
-datasets_dir = os.path.join(os.path.dirname(__file__), "..", "datasets")
-latest_run = sorted(os.listdir(datasets_dir), reverse=True)[0]
+if not slack_token or not channel_id:
+    raise Exception("Missing SLACK_BOT_TOKEN or SLACK_CHANNEL_ID environment variable.")
 
-message = {
-    "text": f" AutoML Agent has completed a new model run for *{latest_run}*. Check the latest results on GitHub!"
+message = "AutoML Agent completed today's job!"
+
+url = "https://slack.com/api/chat.postMessage"
+headers = {
+    "Authorization": f"Bearer {slack_token}",
+    "Content-Type": "application/json"
+}
+data = {
+    "channel": channel_id,
+    "text": message
 }
 
-response = requests.post(SLACK_WEBHOOK_URL, json=message)
-
-if response.status_code != 200:
+response = requests.post(url, headers=headers, json=data)
+if not response.ok or not response.json().get("ok"):
     raise Exception(f"Slack notification failed: {response.status_code}, {response.text}")
 else:
     print("Slack notification sent.")
