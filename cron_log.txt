@@ -37494,3 +37494,9 @@ To https://github.com/Veraeze/Auto-ML-Agent.git
    43eb513..d83c817  main -> main
  EDA plots saved in /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/eda_plots
  Correlation summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/correlation_summary.txt
+[main a52d3e2]  Feature engineering complete for 2025-07-26_iris
+ 2 files changed, 156 insertions(+), 150 deletions(-)
+To https://github.com/Veraeze/Auto-ML-Agent.git
+   d83c817..a52d3e2  main -> main
+ Processed data saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/processed_data.csv
+ Feature engineering summary saved to /Users/veraezeagu/auto_ml_agent/scripts/../datasets/2025-07-26_iris/feature_engineering_summary.txt
