@@ -9,11 +9,26 @@ from kaggle.api.kaggle_api_extended import KaggleApi
 DATASET_CHOICES = [
     "uciml/iris",                         
     "uciml/pima-indians-diabetes-database",
-    "ronitf/heart-disease-uci"
+    "ronitf/heart-disease-uci",
+    "alexteboul/diabetes-health-indicators-dataset",
+    "dev0980/loan-prediction-dataset",
+    "jsphyg/weather-dataset-rattle-package",
+    "mathchi/churn-for-bank-customers",
+    "yasserh/song-popularity-dataset",
+    "thedevastator/air-pollution-pm25-dataset",
+    "sujaykapadnis/student-performance-in-exams",
+    "yasserh/breast-cancer-dataset",
+    "shilongzhuang/credit-card-approval-prediction",
+    "rohanrao/nifty50-stock-market-data",
+    "abcsds/pokemon",
+    "sagnik1511/loan-default-dataset",
+    "mathchi/churn-for-bank-customers",
+    "olistbr/brazilian-ecommerce"
 ]
 
 def fetch_and_save_dataset():
-    # Pick one at random
+    # Use today's date as a seed to ensure variation each day
+    random.seed(datetime.date.today().toordinal())
     dataset_name = random.choice(DATASET_CHOICES)
     dataset_id = dataset_name.split("/")[-1]
     
