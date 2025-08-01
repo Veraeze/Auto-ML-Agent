@@ -31,12 +31,15 @@ def fetch_and_save_dataset():
     # random.seed(datetime.date.today().toordinal())
     random.seed(datetime.datetime.now().timestamp())
     dataset_name = random.choice(DATASET_CHOICES)
+    print(f"Selected dataset: {dataset_name}")
     dataset_id = dataset_name.split("/")[-1]
     
     # Create today's folder
     today = datetime.date.today().strftime("%Y-%m-%d")
-    save_path = f"datasets/{today}_{dataset_id}"
-    os.makedirs(save_path, exist_ok=True)
+    random_suffix = random.randint(1000, 9999)
+    unique_folder = f"{today}_{dataset_id}_{random_suffix}"
+    save_path = os.path.join("datasets", unique_folder)
+    os.makedirs(save_path)
 
     # Download using Kaggle API
     api = KaggleApi()
