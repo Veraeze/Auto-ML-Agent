@@ -21,3 +21,7 @@ with open(log_path, "a") as log_file:
         script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts", script)
         log_file.write(f"\n{datetime.now()} - Running {script} ...\n\n")
         subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", script_path], check=True)
+
+    slack_script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts", "10_send_slack_notification.py")
+    log_file.write(f"\n{datetime.now()} - Running 10_send_slack_notification.py ...\n\n")
+    subprocess.run(["/Library/Frameworks/Python.framework/Versions/3.11/bin/python3", slack_script], check=True)
