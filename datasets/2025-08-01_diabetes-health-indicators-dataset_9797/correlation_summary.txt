@@ -1,0 +1,6 @@
+Top 5 correlation pairs:
+GenHlth   PhysHlth     0.516508
+PhysHlth  DiffWalk     0.466999
+GenHlth   DiffWalk     0.446735
+Income    Education    0.419354
+MentHlth  PhysHlth     0.340362
