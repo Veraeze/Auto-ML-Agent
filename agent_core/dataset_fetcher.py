@@ -26,9 +26,11 @@ DATASET_CHOICES = [
     "olistbr/brazilian-ecommerce"
 ]
 
+print("All dataset options:")
+for d in DATASET_CHOICES:
+    print("-", d)
+
 def fetch_and_save_dataset():
-    # Use today's date as a seed to ensure variation each day
-    # random.seed(datetime.date.today().toordinal())
     dataset_name = random.choice(DATASET_CHOICES)
     print(f"Selected dataset: {dataset_name}")
     dataset_id = dataset_name.split("/")[-1]
