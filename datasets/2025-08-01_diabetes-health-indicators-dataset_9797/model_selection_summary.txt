@@ -1,3 +1,4 @@
 Target column: Income
 Unique values: 8
 Problem type: regression
+Selected model: RandomForestRegressor
