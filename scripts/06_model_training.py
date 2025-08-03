@@ -42,6 +42,10 @@ model.fit(X_train, y_train)
 model_path = os.path.join(latest_folder, "trained_model.pkl")
 joblib.dump(model, model_path)
 
+# Save model name
+with open(os.path.join(latest_folder, "model_name.txt"), "w") as f:
+    f.write(model.__class__.__name__)    
+    
 print(f" Trained model saved to {model_path}")
 print("Target preview:", y.unique()[:5])
 print("Target dtype:", y.dtype)
