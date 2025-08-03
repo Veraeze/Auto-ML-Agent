@@ -18,6 +18,11 @@ if os.path.exists(dest_path):
 shutil.copytree(source_path, dest_path)
 print(f"Copied {latest_folder} to ML-daily-models repo.")
 
+# Force-add trained_model.pkl
+model_path = os.path.join(dest_path, "trained_model.pkl")
+if os.path.exists(model_path):
+    subprocess.run(["git", "add", model_path])
+    
 # Git add, commit, push ===
 os.chdir(os.path.expanduser("~/ml_daily_models/ml_daily_models"))
 subprocess.run(["git", "add", "."])
