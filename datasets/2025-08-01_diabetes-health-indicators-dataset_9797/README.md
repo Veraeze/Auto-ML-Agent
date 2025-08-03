@@ -8,6 +8,7 @@ This model was automatically trained by the AutoML Agent.
 Target column: Income
 Unique values: 8
 Problem type: regression
+Selected model: RandomForestRegressor
 
 ---
 
@@ -24,9 +25,9 @@ Standardized numeric columns: ['Diabetes_012', 'HighBP', 'HighChol', 'CholCheck'
 ---
 
 ## Model Evaluation
-R² Score: 0.2412
-MAE: 0.6859
-RMSE: 0.8678
+R² Score: 0.2407
+MAE: 0.6862
+RMSE: 0.8681
 
 ---
 
